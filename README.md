@@ -1,3 +1,4 @@
+scripts for yt tutorial
 # GPTSMS
 
 ### 1. Create `.env` file
